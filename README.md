@@ -1,5 +1,6 @@
 # Telangana-State-Growth-Analysis-and-Insights
-Challenge: Analyse Growth and Present Insights to the Telangana Govt
+**Challenge: **
+Analyse Growth and Present Insights to the Telangana Govt
 
 The challenge is about analysing the Telangana State’s growth in various sectors and presenting insights to the stakeholders.
 **
