@@ -10,6 +10,7 @@ All the data used in the project is real data available on the Government of Tel
 https://data.telangana.gov.in/
 
 **Dimension tables:**
+
 dim_date – This table contains the dates at the monthly level. Please be aware that the fiscal year of Telangana spans from April to March.
 
 dim_districts – The table contains information about districts.
