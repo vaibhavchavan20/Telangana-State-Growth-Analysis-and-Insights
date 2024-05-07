@@ -2,19 +2,19 @@
 Challenge: Analyse Growth and Present Insights to the Telangana Govt
 
 The challenge is about analysing the Telangana State’s growth in various sectors and presenting insights to the stakeholders.
-
-About Project
+**
+About Project**
 We are provided with 2 dimension tables and 3 fact tables.
 
 All the data used in the project is real data available on the Government of Telangana’s Open Data portal.
 https://data.telangana.gov.in/
 
-Dimension tables:
+**Dimension tables:**
 dim_date – This table contains the dates at the monthly level. Please be aware that the fiscal year of Telangana spans from April to March.
 
 dim_districts – The table contains information about districts.
 
-Fact Tables:
+**Fact Tables:**
 
 fact_stamps – The table provides data on the revenue generated from document registrations and E-stamp challan payments aggregated at the district and monthly level.
 
