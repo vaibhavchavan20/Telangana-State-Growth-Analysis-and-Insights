@@ -24,3 +24,6 @@ fact_transport – The table provides information about the individual vehicle s
 
 fact_TS_ipass – The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the “Industrial Project Approval and Self-Certification System” (iPASS). This government initiative aims to foster industrial growth and investment by streamlining project approvals and enabling self-certification for businesses.
 
+Check Dashboard Here:
+
+https://app.powerbi.com/links/jN0owjDPKY?ctid=f863b45b-5bc3-4d99-94ac-4193884150a7&pbi_source=linkShare&bookmarkGuid=5514db61-c86a-498d-81ed-a789d2315bf2
