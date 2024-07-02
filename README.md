@@ -26,4 +26,4 @@ fact_TS_ipass – The TS-iPASS dataset in Telangana comprises data concerning un
 
 Check Dashboard Here:
 
-https://app.powerbi.com/links/jN0owjDPKY?ctid=f863b45b-5bc3-4d99-94ac-4193884150a7&pbi_source=linkShare&bookmarkGuid=5514db61-c86a-498d-81ed-a789d2315bf2
+https://app.powerbi.com/view?r=eyJrIjoiM2UzNGNmYTQtYzRlNC00NmJkLTkzYWYtYmY2NGJlN2M1ZjQ0IiwidCI6ImY4NjNiNDViLTViYzMtNGQ5OS05NGFjLTQxOTM4ODQxNTBhNyIsImMiOjEwfQ%3D%3D
